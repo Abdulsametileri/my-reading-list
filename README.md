@@ -1,2 +1,37 @@
-# my-reading-list
-My reading list (continiously updated)
+# 🚀 My Reading List 🚀 
+
+- [x] 📖 Jez Humble, David Farley - Continuous Delivery_ Reliable Software Releases through Build, Test, and Deployment Automation
+- [x] 📖 14 Habits of Highly Productive Developers by Zeno Rocha 
+- [x] 📖 97 things every programmer should know collective wisdom from the experts by Kevlin Henney
+- [x] 📖 Cloud Native DevOps with Kubernetes by John Arundel, Justin Domingus
+- [x] 📖 The Goal
+- [x] 📖 Scalability Rules  Principles for Scaling Web Sites-Addison-Wesley Professional
+- [x] 📖 Mike Cohn - User Stories Applied_ For Agile Software Development
+- [x] 📖 Agile Technical Practices Distilled_ A Journey Toward Mastering Software Design-Independently Published
+- [x] 📖 Release It
+- [x] 📖 Sam Newman - Building Microservices_ Designing Fine-Grained Systems
+- [x] 📖 Sam Newman - Monolith to Microservices_ Evolutionary Patterns to Transform Your Monolith
+- [x] 📖 Scalability Rules  Principles for Scaling Web Sites-Addison-Wesley Professional
+- [x] 📖 Street Coder The rules to break and how to break them
+- [x] 📖 Testing Vue.js Applications by Edd Yerburgh
+- [x] 📖 The Phoenix Project
+- [x] 📖 Tongue Fu
+- [x] 📖 The Practice of Cloud System Administration Devops and Sre Practices
+- [x] 📖 The Pragmatic Programmer From Journeyman to Master by Andrew Hunt, David Thomas
+- [x] 📖 UI Testing with Puppeteer Implement end-to-end testing and browser automation using JavaScript and Node.js
+- [x] 📖 Web Scalability for Startup Engineers Tips and Techniques for Scaling Your Web Application by Arthur Ejsmont 
+- [x] 📖 Unit Testing Principles, Practices, and Patterns by Vladimir Khorikov
+- [x] 📖 Istio Up  Running Using a Service Mesh to Connect, Secure, Control, and Observe by Lee Calcote, Zack Butcher        
+- [ ] **CURRENTLY READING**: HTTP The Definitive Guide by David Gourley, Brian Totty, Marjorie Sayer, Sailu Reddy, Anshu Aggarwal
+- [ ] **CURRENTLY READING**: Mindset by DR CAROL S. DWECK
+- [ ] High Performance Browser Networking by Ilya Grigorik
+- [ ] Thinking in Systems Agile Lean
+- [ ] Running Lean
+- [ ] Managing Humans
+- [ ] Lean-Agile Acceptance Test-Driven Development by Ken Pugh
+- [ ] The Five Dysfunctions of a team, A leadership fable by Lencioni, Patrick
+- [ ] Code Complete - A Practical Handbook of Software Construction by Steve McConnell
+- [ ] Software Architecture in Practice, 4th Edition (Rough Cut) by Len Bass Paul Clements Rick Kazman
+- [ ] Critical Chain
+- [ ] Mental Toughness
+- [ ] IKIGAI
