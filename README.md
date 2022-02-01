@@ -23,8 +23,9 @@
 - [x] 📖 [Unit Testing Principles, Practices, and Patterns by Vladimir Khorikov](https://www.amazon.com/Unit-Testing-Principles-Practices-Patterns/dp/1617296279)
 - [x] 📖 [Istio Up  Running Using a Service Mesh to Connect, Secure, Control, and Observe by Lee Calcote, Zack Butcher](https://www.amazon.com/Istio-Running-Service-Connect-Control/dp/1492043788)
 - [x] 📖 [HTTP The Definitive Guide by David Gourley, Brian Totty, Marjorie Sayer, Sailu Reddy, Anshu Aggarwal](https://www.amazon.com.tr/HTTP-David-Gourley/dp/1565925092)
+- [x] [High Performance Browser Networking by Ilya Grigorik](https://www.amazon.com.tr/High-Performance-Browser-Networking-performance/dp/1449344763) (Some chapters skipped)
 - [ ] **CURRENTLY READING**: [Mindset by DR CAROL S. DWECK](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
-- [ ] **CURRENTLY READING**: [High Performance Browser Networking by Ilya Grigorik](https://www.amazon.com.tr/High-Performance-Browser-Networking-performance/dp/1449344763)
+- [ ] **CURRENTLY READING**: [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com.tr/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [ ] Thinking in Systems Agile Lean
 - [ ] Running Lean
 - [ ] Managing Humans
