@@ -26,7 +26,8 @@
 - [x] [High Performance Browser Networking by Ilya Grigorik](https://www.amazon.com.tr/High-Performance-Browser-Networking-performance/dp/1449344763) (Some chapters skipped)
 - [ ] **CURRENTLY READING**: [Mindset by DR CAROL S. DWECK](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 - [ ] [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com.tr/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-- [ ] **CURRENTLY READING**: [Making Sense of Stream Processing](https://www.oreilly.com/library/view/making-sense-of/9781492042563/)
+- [x] [Making Sense of Stream Processing](https://www.oreilly.com/library/view/making-sense-of/9781492042563/)
+- [ ] **CURRENTLY READING**: [I Heart Logs: Event Data, Stream Processing, and Data Integration](https://www.amazon.com.tr/Heart-Logs-Stream-Processing-Integration/dp/1491909382)
 - [ ] Thinking in Systems Agile Lean
 - [ ] Running Lean
 - [ ] Managing Humans
