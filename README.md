@@ -24,7 +24,7 @@
 - [x] 📖 [Istio Up  Running Using a Service Mesh to Connect, Secure, Control, and Observe by Lee Calcote, Zack Butcher](https://www.amazon.com/Istio-Running-Service-Connect-Control/dp/1492043788)
 - [x] 📖 [HTTP The Definitive Guide by David Gourley, Brian Totty, Marjorie Sayer, Sailu Reddy, Anshu Aggarwal](https://www.amazon.com.tr/HTTP-David-Gourley/dp/1565925092)
 - [x] [High Performance Browser Networking by Ilya Grigorik](https://www.amazon.com.tr/High-Performance-Browser-Networking-performance/dp/1449344763) (Some chapters skipped)
-- [x] [Designing Event-Driven Systems Concepts and Patterns for Streaming Services with Apache Kafka by Ben Stopford] (https://www.confluent.io/designing-event-driven-systems/) (last 40 pages skipped)
+- [x] [Designing Event-Driven Systems Concepts and Patterns for Streaming Services with Apache Kafka by Ben Stopford](https://www.confluent.io/designing-event-driven-systems/)
 - [ ] **CURRENTLY READING**: [Mindset by DR CAROL S. DWECK](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 - [x] [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com.tr/Designing-Data-Intensive- (Applications-Reliable-Maintainable/dp/1449373321) 
 - [x] [Making Sense of Stream Processing](https://www.oreilly.com/library/view/making-sense-of/9781492042563/)
