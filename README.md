@@ -34,6 +34,7 @@
 - [x] [Lets Go Further Advanced patterns for building APIs and web applications in Go by Alex Edwards](https://lets-go.alexedwards.net/)
 - [x] [Building Event Driven Microservices Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894/ref=sr_1_1?keywords=event+driven+architecture&qid=1647501114&sprefix=event+driven+arc%2Caps%2C240&sr=8-1)
 - [ ] **CURRENTLY READING**: [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
+- [ ] [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=pd_sbs_59/135-5168499-7259243?pd_rd_w=KAzyI&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=77CX6NMTRT9V1Q9C4M4R&pd_rd_r=14889ade-e090-4aea-86fc-16b0a675b6fe&pd_rd_wg=fiykL&pd_rd_i=1942788339&psc=1)
 - [ ] Thinking in Systems Agile Lean
 - [ ] Running Lean
 - [ ] Managing Humans
