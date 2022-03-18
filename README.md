@@ -29,9 +29,11 @@
 - [x] [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com.tr/Designing-Data-Intensive- (Applications-Reliable-Maintainable/dp/1449373321) 
 - [x] [Making Sense of Stream Processing](https://www.oreilly.com/library/view/making-sense-of/9781492042563/)
 - [x] [I Heart Logs: Event Data, Stream Processing, and Data Integration](https://www.amazon.com.tr/Heart-Logs-Stream-Processing-Integration/dp/1491909382)
-- [x] Concurrency in Go Tools and Techniques for Developers by Katherine Cox-Buday](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197)
-- [x] Let’s Go Learn to build professional web applications with Go by Alex Edwards (https://lets-go.alexedwards.net/)
-- [x] Lets Go Further Advanced patterns for building APIs and web applications in Go by Alex Edwards (https://lets-go.alexedwards.net/)
+- [x] Concurrency in Go Tools and Techniques for Developers by Katherine Cox-Buday](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197) 
+- [x] [Let’s Go Learn to build professional web applications with Go by Alex Edwards](https://lets-go.alexedwards.net/)
+- [x] [Lets Go Further Advanced patterns for building APIs and web applications in Go by Alex Edwards](https://lets-go.alexedwards.net/)
+- [x] [Building Event Driven Microservices Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894/ref=sr_1_1?keywords=event+driven+architecture&qid=1647501114&sprefix=event+driven+arc%2Caps%2C240&sr=8-1)
+- [ ] **CURRENTLY READING**: [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
 - [ ] Thinking in Systems Agile Lean
 - [ ] Running Lean
 - [ ] Managing Humans
