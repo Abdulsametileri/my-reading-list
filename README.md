@@ -33,6 +33,7 @@
 - [x] 📖 [Lets Go Further Advanced patterns for building APIs and web applications in Go by Alex Edwards](https://lets-go.alexedwards.net/)
 - [x] 📖 [Building Event Driven Microservices Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894/ref=sr_1_1?keywords=event+driven+architecture&qid=1647501114&sprefix=event+driven+arc%2Caps%2C240&sr=8-1)
 - [x] 📖 [Practical Event-Driven Microservices Architecture by Hugo Filipe Oliveira Rocha](https://www.amazon.com/Practical-Event-Driven-Microservices-Architecture-Sustainable/dp/1484274679)
+- [ ] **CURRENTLY READING**: Sistemlerde Düşünmek (DONELLA H. MEADOWS)
 - [ ] **CURRENTLY READING**: [Mindset by DR CAROL S. DWECK](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 - [ ] **CURRENTLY READING**: [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
 - [ ] Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
