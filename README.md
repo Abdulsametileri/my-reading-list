@@ -36,6 +36,8 @@
 - [x] 📖 [Mindset by DR CAROL S. DWECK](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 - [ ] **CURRENTLY READING**: Sistemlerde Düşünmek (DONELLA H. MEADOWS)
 - [ ] **CURRENTLY READING**: [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
+- [ ] Clean Architecture A Craftsman’s Guide to Software Structure and Design (Robert C. Martin)
+- [ ] The Clean Coder A Code of Conduct for Professional Programmers (Robert C. Martin)
 - [ ] Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
 - [ ] Thinking in Systems Agile Lean
 - [ ] Running Lean
