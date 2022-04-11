@@ -36,9 +36,9 @@
 - [x] 📖 [Mindset by DR CAROL S. DWECK](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 - [x] 📖 [Clean Architecture A Craftsman’s Guide to Software Structure and Design (Robert C. Martin)](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [x] 📖 The Clean Coder A Code of Conduct for Professional Programmers (Robert C. Martin)
-- [ ] **CURRENTLY READING**: Sistemlerde Düşünmek (DONELLA H. MEADOWS)
-- [ ] **CURRENTLY READING**: [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
-- [ ] **CURRENTLY READING**: [System Design Interview – An insider's guide](https://github.com/Abdulsametileri/my-reading-list/blob/main/README.md)
+- [ ] Sistemlerde Düşünmek (DONELLA H. MEADOWS)
+- [ ] [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
+- [ ] [System Design Interview – An insider's guide](https://github.com/Abdulsametileri/my-reading-list/blob/main/README.md)
 - [ ] The 7 Habits of Highly Effective People Powerful Lessons in Personal Change
 - [ ] Deep Work - Cal Newport
 - [ ] Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
