@@ -38,6 +38,7 @@
 - [ ] **CURRENTLY READING**: Sistemlerde Düşünmek (DONELLA H. MEADOWS)
 - [ ] **CURRENTLY READING**: [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
 - [ ] **CURRENTLY READING**: [System Design Interview – An insider's guide](https://github.com/Abdulsametileri/my-reading-list/blob/main/README.md)
+- [ ] The 7 Habits of Highly Effective People Powerful Lessons in Personal Change
 - [ ] Deep Work - Cal Newport
 - [ ] The Clean Coder A Code of Conduct for Professional Programmers (Robert C. Martin)
 - [ ] Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
