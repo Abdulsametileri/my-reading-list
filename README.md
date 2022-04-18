@@ -36,6 +36,7 @@
 - [x] 📖 [Mindset by DR CAROL S. DWECK](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 - [x] 📖 [Clean Architecture A Craftsman’s Guide to Software Structure and Design (Robert C. Martin)](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [x] 📖 The Clean Coder A Code of Conduct for Professional Programmers (Robert C. Martin)
+- [ ] [bash Idioms Write Powerful, Flexible, Readable Shell Scripts (Carl Albing, JP Vossen)](https://www.amazon.com/bash-Idioms-Powerful-Flexible-Readable/dp/1492094757)
 - [ ] Sistemlerde Düşünmek (DONELLA H. MEADOWS)
 - [ ] [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
 - [ ] [System Design Interview – An insider's guide](https://github.com/Abdulsametileri/my-reading-list/blob/main/README.md)
