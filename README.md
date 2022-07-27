@@ -39,6 +39,8 @@
 - [x] 📖 [Software Architecture The Hard Parts](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894)
 - [x] 📖 [NoSQL Distilled A Brief Guide to the Emerging World of Polyglot Persistence](https://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence/dp/0321826620)
 - [x] 📖 [RabbitMQ essentials build distributed and scalable applications with message queuing using RabbitMQ](https://www.amazon.com/RabbitMQ-Essentials-distributed-scalable-applications/dp/1789131669)
+- [ ] **CURRENTLY READING** 📖 [Effective Monitoring and Alerting For Web Operations (Slawek Ligus)](https://www.amazon.com/Effective-Monitoring-Alerting-Web-Operations/dp/1449333524)
+- [ ] 📖 [Computer Science Distilled: Learn the Art of Solving Computational Problems](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
 - [ ] Sistemlerde Düşünmek (DONELLA H. MEADOWS)
 - [ ] [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
 - [ ] [System Design Interview – An insider's guide](https://github.com/Abdulsametileri/my-reading-list/blob/main/README.md)
