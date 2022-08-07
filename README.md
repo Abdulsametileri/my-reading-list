@@ -41,7 +41,7 @@
 - [x] 📖 [RabbitMQ essentials build distributed and scalable applications with message queuing using RabbitMQ](https://www.amazon.com/RabbitMQ-Essentials-distributed-scalable-applications/dp/1789131669)
 - [x] 📖 [Effective Monitoring and Alerting For Web Operations (Slawek Ligus)](https://www.amazon.com/Effective-Monitoring-Alerting-Web-Operations/dp/1449333524) (some chapters are skipped)
 - [x] 📖 [Computer Science Distilled: Learn the Art of Solving Computational Problems](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020) (some chapters are skipped)
-- [x] [Computer Networking A Top-Down Approach (James W. Kurose, Keith W. Ross)](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) (some chapters are skipped)
+- [x] 📖 [Computer Networking A Top-Down Approach (James W. Kurose, Keith W. Ross)](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) (some chapters are skipped)
 - [x] 📖 [Understanding Distributed Systems - 2nd Edition (Roberto Vitillo)](https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210)
 - [ ] 📖 **CURRENTLY READING** Foundations of Scalable Systems Designing Distributed Architectures (Ian Gorton)
 - [ ] Domain-Driven Design Tackling Complexity in the Heart of Software (Eric Evans)
