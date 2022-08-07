@@ -39,18 +39,26 @@
 - [x] 📖 [Software Architecture The Hard Parts](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894)
 - [x] 📖 [NoSQL Distilled A Brief Guide to the Emerging World of Polyglot Persistence](https://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence/dp/0321826620)
 - [x] 📖 [RabbitMQ essentials build distributed and scalable applications with message queuing using RabbitMQ](https://www.amazon.com/RabbitMQ-Essentials-distributed-scalable-applications/dp/1789131669)
-- [ ] **CURRENTLY READING** 📖 [Effective Monitoring and Alerting For Web Operations (Slawek Ligus)](https://www.amazon.com/Effective-Monitoring-Alerting-Web-Operations/dp/1449333524)
-- [ ] 📖 [Computer Science Distilled: Learn the Art of Solving Computational Problems](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
-- [ ] Sistemlerde Düşünmek (DONELLA H. MEADOWS)
-- [ ] [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
-- [ ] [System Design Interview – An insider's guide](https://github.com/Abdulsametileri/my-reading-list/blob/main/README.md)
+- [x] 📖 [Effective Monitoring and Alerting For Web Operations (Slawek Ligus)](https://www.amazon.com/Effective-Monitoring-Alerting-Web-Operations/dp/1449333524) (some chapters are skipped)
+- [x] 📖 [Computer Science Distilled: Learn the Art of Solving Computational Problems](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020) (some chapters are skipped)
+- [x] [Computer Networking A Top-Down Approach (James W. Kurose, Keith W. Ross)](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) (some chapters are skipped)
+- [x] 📖 [Understanding Distributed Systems - 2nd Edition (Roberto Vitillo)](https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210)
+- [ ] 📖 **CURRENTLY READING** Foundations of Scalable Systems Designing Distributed Architectures (Ian Gorton) (z-lib.org)
+- [ ] Domain-Driven Design Tackling Complexity in the Heart of Software (Eric Evans)
+- [ ] System Design Interview Mastering Basic Introduction to System Analysis and Design (Groks King)
+- [ ] The DynamoDB Book (Alex DeBrie) 
+- [ ] Ultimate Go Notebook (William Kennedy, Hoanh An)
+- [ ] Learn Kubernetes in a Month of Lunches (Elton Stoneman)
+- [ ] Writing A Compiler In Go (Thorsten Ball)
+- [ ] Seven Databases in Seven Weeks A Guide to Modern Databases and the NoSQL Movement (Luc Perkins, Eric Redmond, Jim Wilson)
+- [ ] Microservices Security in Action (Prabath Siriwardena, Nuwan Dias)
+- [ ] Working effectively with legacy code (Feathers, Michael C)
 - [ ] The 7 Habits of Highly Effective People Powerful Lessons in Personal Change
 - [ ] Deep Work - Cal Newport
 - [ ] Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
 - [ ] Thinking in Systems Agile Lean
 - [ ] Running Lean
 - [ ] Managing Humans
-- [ ] Lean-Agile Acceptance Test-Driven Development by Ken Pugh
 - [ ] The Five Dysfunctions of a team, A leadership fable by Lencioni, Patrick
 - [ ] Code Complete - A Practical Handbook of Software Construction by Steve McConnell
 - [ ] Software Architecture in Practice, 4th Edition (Rough Cut) by Len Bass Paul Clements Rick Kazman
