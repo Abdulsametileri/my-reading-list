@@ -43,6 +43,7 @@
 - [x] 📖 [Computer Science Distilled: Learn the Art of Solving Computational Problems](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020) (some chapters are skipped)
 - [x] 📖 [Computer Networking A Top-Down Approach (James W. Kurose, Keith W. Ross)](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) (some chapters are skipped)
 - [x] 📖 [Understanding Distributed Systems - 2nd Edition (Roberto Vitillo)](https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210)
+- [x] 📖 [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 - [ ] 📖 **CURRENTLY READING** Foundations of Scalable Systems Designing Distributed Architectures (Ian Gorton)
 - [ ] Domain-Driven Design Tackling Complexity in the Heart of Software (Eric Evans)
 - [ ] The DynamoDB Book (Alex DeBrie) 
@@ -55,7 +56,7 @@
 - [ ] Working effectively with legacy code (Feathers, Michael C)
 - [ ] The 7 Habits of Highly Effective People Powerful Lessons in Personal Change
 - [ ] Deep Work - Cal Newport
-- [ ] Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations
+
 - [ ] Thinking in Systems Agile Lean
 - [ ] Running Lean
 - [ ] Managing Humans
