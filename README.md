@@ -44,6 +44,7 @@
 - [x] 📖 [Computer Networking A Top-Down Approach (James W. Kurose, Keith W. Ross)](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) (some chapters are skipped)
 - [x] 📖 [Understanding Distributed Systems - 2nd Edition (Roberto Vitillo)](https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210)
 - [x] 📖 [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+- [x] 📖 [Design Patterns for Cloud Native Applications Patterns in Practice Using APIs, Data, Events, and Streams](https://www.amazon.com/Design-Patterns-Cloud-Native-Applications/dp/1492090719)
 - [ ] 📖 **CURRENTLY READING** Foundations of Scalable Systems Designing Distributed Architectures (Ian Gorton)
 - [ ] Domain-Driven Design Tackling Complexity in the Heart of Software (Eric Evans)
 - [ ] The DynamoDB Book (Alex DeBrie) 
