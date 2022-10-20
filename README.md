@@ -46,7 +46,8 @@
 - [x] 📖 [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 - [x] 📖 [Design Patterns for Cloud Native Applications Patterns in Practice Using APIs, Data, Events, and Streams](https://www.amazon.com/Design-Patterns-Cloud-Native-Applications/dp/1492090719)
 - [x] 📖 [Patterns of Enterprise Application Architecture (Martin Fowler)](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
-- [ ] Enterprise Integration Patterns Designing, Building and Deploying Messaging Solutions A Martin Fowler Signature Book
+- [ ] **CURRENTLY READING** Enterprise Integration Patterns Designing, Building and Deploying Messaging Solutions A Martin Fowler Signature Book
+- [ ] **CURRENTLY READING** Data Mesh Delivering Data-Driven Value at Scale (Zhamak Dehghani)
 - [ ] Foundations of Scalable Systems Designing Distributed Architectures (Ian Gorton)
 - [ ] Domain-Driven Design Tackling Complexity in the Heart of Software (Eric Evans)
 - [ ] The DynamoDB Book (Alex DeBrie) 
