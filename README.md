@@ -69,4 +69,4 @@
 - [ ] Software Architecture in Practice, 4th Edition (Rough Cut) by Len Bass Paul Clements Rick Kazman
 - [ ] Critical Chain
 - [ ] Mental Toughness
-- [ ] IKIGAI
+- [x] [IKIGAI](https://www.dr.com.tr/Kitap/Ikigai-Japonlarin-Uzun-Ve-Mutlu-Yasam-Sirri/Egitim-Basvuru/Kisisel-Gelisim/urunno=0001735494001)
