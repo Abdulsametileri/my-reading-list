@@ -35,7 +35,7 @@
 - [x] 📖 [Practical Event-Driven Microservices Architecture by Hugo Filipe Oliveira Rocha](https://www.amazon.com/Practical-Event-Driven-Microservices-Architecture-Sustainable/dp/1484274679)
 - [x] 📖 [Mindset by DR CAROL S. DWECK](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 - [x] 📖 [Clean Architecture A Craftsman’s Guide to Software Structure and Design (Robert C. Martin)](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
-- [x] 📖 The Clean Coder A Code of Conduct for Professional Programmers (Robert C. Martin)
+- [x] 📖 [The Clean Coder A Code of Conduct for Professional Programmers (Robert C. Martin)](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - [x] 📖 [Software Architecture The Hard Parts](https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894)
 - [x] 📖 [NoSQL Distilled A Brief Guide to the Emerging World of Polyglot Persistence](https://www.amazon.com/NoSQL-Distilled-Emerging-Polyglot-Persistence/dp/0321826620)
 - [x] 📖 [RabbitMQ essentials build distributed and scalable applications with message queuing using RabbitMQ](https://www.amazon.com/RabbitMQ-Essentials-distributed-scalable-applications/dp/1789131669)
@@ -46,6 +46,7 @@
 - [x] 📖 [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 - [x] 📖 [Design Patterns for Cloud Native Applications Patterns in Practice Using APIs, Data, Events, and Streams](https://www.amazon.com/Design-Patterns-Cloud-Native-Applications/dp/1492090719)
 - [x] 📖 [Patterns of Enterprise Application Architecture (Martin Fowler)](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+- [x] 📖 [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 - [ ] Enterprise Integration Patterns Designing, Building and Deploying Messaging Solutions A Martin Fowler Signature Book
 - [ ] Data Mesh Delivering Data-Driven Value at Scale (Zhamak Dehghani)
 - [ ] Foundations of Scalable Systems Designing Distributed Architectures (Ian Gorton)
@@ -60,7 +61,6 @@
 - [ ] Working effectively with legacy code (Feathers, Michael C)
 - [ ] The 7 Habits of Highly Effective People Powerful Lessons in Personal Change
 - [ ] Deep Work - Cal Newport
-
 - [ ] Thinking in Systems Agile Lean
 - [ ] Running Lean
 - [ ] Managing Humans
