@@ -47,6 +47,7 @@
 - [x] 📖 [Design Patterns for Cloud Native Applications Patterns in Practice Using APIs, Data, Events, and Streams](https://www.amazon.com/Design-Patterns-Cloud-Native-Applications/dp/1492090719)
 - [x] 📖 [Patterns of Enterprise Application Architecture (Martin Fowler)](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 - [x] 📖 [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+- [x] 📖 [Enterprise Integration Patterns Designing, Building and Deploying Messaging Solutions](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683))
 - [ ] Enterprise Integration Patterns Designing, Building and Deploying Messaging Solutions A Martin Fowler Signature Book
 - [ ] Data Mesh Delivering Data-Driven Value at Scale (Zhamak Dehghani)
 - [ ] Foundations of Scalable Systems Designing Distributed Architectures (Ian Gorton)
