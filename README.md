@@ -48,6 +48,7 @@
 - [x] 📖 [Patterns of Enterprise Application Architecture (Martin Fowler)](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 - [x] 📖 [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 - [x] 📖 [Enterprise Integration Patterns Designing, Building and Deploying Messaging Solutions](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683))
+- [x] 📖 [Refactoring Databases: Evolutionary Database Design](https://www.amazon.com/Refactoring-Databases-Evolutionary-paperback-Addison-Wesley/dp/0321774515)
 - [ ] Data Mesh Delivering Data-Driven Value at Scale (Zhamak Dehghani)
 - [ ] Foundations of Scalable Systems Designing Distributed Architectures (Ian Gorton)
 - [ ] Domain-Driven Design Tackling Complexity in the Heart of Software (Eric Evans)
