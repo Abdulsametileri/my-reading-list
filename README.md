@@ -50,6 +50,7 @@
 - [x] 📖 [Enterprise Integration Patterns Designing, Building and Deploying Messaging Solutions](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683))
 - [x] 📖 [Refactoring Databases: Evolutionary Database Design](https://www.amazon.com/Refactoring-Databases-Evolutionary-paperback-Addison-Wesley/dp/0321774515)
 - [x] 📖 [Domain Driven Design with Golang](https://www.amazon.com/Domain-Driven-Design-Golang-maintainable-business/dp/1804613452)
+- [x] 📖 [Michael Stack - Event-Driven Architecture in Golang_ Building complex systems with asynchronicity and eventual consistency](https://www.amazon.com/Event-Driven-Architecture-Golang-asynchronicity-consistency/dp/1803238011)
 - [ ] Data Mesh Delivering Data-Driven Value at Scale (Zhamak Dehghani)
 - [ ] Foundations of Scalable Systems Designing Distributed Architectures (Ian Gorton)
 - [ ] Domain-Driven Design Tackling Complexity in the Heart of Software (Eric Evans)
