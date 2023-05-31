@@ -53,6 +53,7 @@
 - [x] 📖 [Michael Stack - Event-Driven Architecture in Golang_ Building complex systems with asynchronicity and eventual consistency](https://www.amazon.com/Event-Driven-Architecture-Golang-asynchronicity-consistency/dp/1803238011)
 - [x] 📖 [97 Things Software Architect Should Know Collective Wisdom from the Experts](https://www.amazon.com/Things-Every-Software-Architect-Should/dp/059652269X)
 - [x] 📖 [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914)
+- [x] 📖 [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 - [ ] Data Mesh Delivering Data-Driven Value at Scale (Zhamak Dehghani)
 - [ ] Foundations of Scalable Systems Designing Distributed Architectures (Ian Gorton)
 - [ ] Domain-Driven Design Tackling Complexity in the Heart of Software (Eric Evans)
